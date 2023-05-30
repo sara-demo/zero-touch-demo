@@ -10,5 +10,4 @@ app.get("/", function (req, res) {
   eval(flag);
   res.send("Response</br>");
 });
-saveToken("Bearer eynjash234234nvcsd.dsfhsbdu283djsafjJFSUDdfsjd.sdsdfgh1234ip1===")
 app.listen(8000);
