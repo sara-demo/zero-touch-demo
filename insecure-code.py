@@ -7,3 +7,7 @@ print(sha.hexdigest())
 sha = hashlib.sha1()
 sha.update(b'tutatyadssada')
 print(sha.hexdigest())
+
+sha = hashlib.sha1()
+sha.update(b'tutatyadssada')
+print(sha.hexdigest())
